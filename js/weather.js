@@ -10,7 +10,7 @@ function onGeoOk(position) {
     const icon = document.getElementById("icon")
     city.innerHTML = data.name
     weather.innerText = `${data.weather[0].main}  / ${data.main.temp}`
-    icon.src = `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
+    icon.src = `https://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
     // http://openweathermap.org/img/wn/10d@2x.png
   })
 
