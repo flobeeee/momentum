@@ -10,22 +10,29 @@
 </head>
 
 <body>
-  <form id="login-form" class="hidden">
-    <input required maxlength="15" type="text" placeholder="What is your name?" />
-    <button>Log In</button>
-  </form>
-  <h2 id="clock">00:00:00</h2>
-  <h1 id="greeting" class="hidden"></h1>
-  <form id="todo-form">
-    <input type="text" placeholder="Write a To Do and Press Enter">
-  </form>
-  <ul id="todo-list"></ul>
-  <div id="goodSentance">
-    <span></span>
+  <div id="weather-container">
+    <img id="icon"></img>
+    <div id="weather">
+      <span></span>
+      <span></span>
+    </div>
   </div>
-  <div id="weather">
-    <span></span>
-    <span></span>
+  <div id="contain">
+    <form id="login-form" class="hidden">
+      <input required maxlength="15" type="text" placeholder="What is your name?" />
+      <button>Log In</button>
+    </form>
+    <h2 id="clock">00:00:00</h2>
+    <h1 id="greeting" class="hidden"></h1>
+    <form id="todo-form">
+      <input type="text" placeholder="Write a To Do and Press Enter">
+    </form>
+    <ul id="todo-list"></ul>
+    <div id="goodSentance">
+      <span></span>
+    </div>
+
+
   </div>
   <script src="js/clock.js"></script>
   <script src="js/greetings.js"></script>

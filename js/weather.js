@@ -7,10 +7,14 @@ function onGeoOk(position) {
   fetch(url).then(response => response.json()).then(data => {
     const weather = document.querySelector("#weather span:first-child")
     const city = document.querySelector("#weather span:last-child")
-
+    const icon = document.getElementById("icon")
+    console.log(data.weather[0])
     city.innerHTML = data.name
     weather.innerText = `${data.weather[0].main}  / ${data.main.temp}`
+    icon.src = `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
+    // http://openweathermap.org/img/wn/10d@2x.png
   })
+
 }
 function onGeoError() {
   alert("Can't find you. No weather for you.")

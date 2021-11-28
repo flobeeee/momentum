@@ -1,3 +1,48 @@
 .hidden {
   display: none;
 }
+
+.body {
+  /* size: cover; */
+  height: 100vh;
+}
+
+#weather-container{
+  position: absolute;
+  text-align: center;
+  left: 45%;
+  top: 0%;
+}
+
+#contain {
+  background-color: white;
+  text-align: center;
+  opacity:0.5; 
+  padding: 5vh;
+  border-radius: 10px;
+  position: absolute;
+  width: 30%;
+  height: 50%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+li{
+  list-style:none;
+  }
+
+button {
+  outline: 0;
+  border: 0;
+  background-color:transparent;
+}
+
+button:hover {
+  transform: scale(1.4);
+}
+
+ul {
+  height: 40%;
+  overflow: auto;
+}
