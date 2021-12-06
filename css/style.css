@@ -2,9 +2,15 @@
   display: none;
 }
 
+html {
+  height: 100%;
+  width: 100%;
+}
+
 .body {
   /* size: cover; */
   height: 100vh;
+  object-fit:cover;
 }
 
 #weather-container{
