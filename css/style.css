@@ -2,15 +2,15 @@
   display: none;
 }
 
-html {
+/* html {
   height: 100%;
   width: 100%;
-}
+} */
 
-.body {
-  /* size: cover; */
+body {
   height: 100vh;
-  object-fit:cover;
+  /* object-fit:cover; */
+  background-color: darkred;
 }
 
 #weather-container{
@@ -51,4 +51,10 @@ button:hover {
 ul {
   height: 40%;
   overflow: auto;
+}
+
+#tree {
+  position: fixed;
+  left: 65%;
+  top: 40%;
 }
