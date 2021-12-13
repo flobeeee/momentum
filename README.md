@@ -28,3 +28,30 @@
 <br > 제가 제일 좋아하는 부분입니다.
 <br > 화면에 클릭하는 부분마다 노란색 별이 만들어지고,
 <br > 각각의 별은 랜덤 시간, 랜덤 색상으로 반짝거립니다. 🌟
+
+---
+
+- 시연연상 
+
+
+</div>
+</details>
+
+<details>
+<summary>로그인 및 투두리스트 화면</summary>
+
+![](https://images.velog.io/images/flobeeee/post/8d3ce41b-e582-4ed6-b9cf-1002a6562b6e/Dec-13-2021%2021-13-08.gif)
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>반짝별 화면</summary>
+
+![](https://images.velog.io/images/flobeeee/post/5041f2ec-d7d7-43a4-adc8-796e743e784d/Dec-13-2021%2021-14-21(1).gif)
+
+</div>
+</details>
