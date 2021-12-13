@@ -27,6 +27,7 @@ function handleMakeStars(event) {
   span.style.height = `${randomSize}px`
   span.style.width = `${randomSize}px`
   span.style.borderRadius = '30px'
+
   setInterval(() => {
     span.style.backgroundColor = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
     span.style.display === 'none' ? span.style.display = 'inline-block' : span.style.display = 'none';
