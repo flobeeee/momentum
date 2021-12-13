@@ -32,25 +32,4 @@
 
 - 시연연상 
 
-
-</div>
-</details>
-
-<details>
-<summary>로그인 및 투두리스트 화면</summary>
-
-![](https://images.velog.io/images/flobeeee/post/8d3ce41b-e582-4ed6-b9cf-1002a6562b6e/Dec-13-2021%2021-13-08.gif)
-
-</div>
-</details>
-
-</div>
-</details>
-
-<details>
-<summary>반짝별 화면</summary>
-
-![](https://images.velog.io/images/flobeeee/post/5041f2ec-d7d7-43a4-adc8-796e743e784d/Dec-13-2021%2021-14-21(1).gif)
-
-</div>
-</details>
+![](https://images.velog.io/images/flobeeee/post/f0201c11-cb00-4c3e-9f36-4a9e0049e10c/Dec-13-2021%2022-03-48.gif)
