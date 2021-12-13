@@ -8,7 +8,6 @@
 - 기술스택 : JS, HTML, CSS, LocalStorage <br >
 - 기능 : 유저이름 저장, 투두리스트 작성 및 삭제, 오늘날씨, 랜덤명언, 반짝별 효과 <br >
 - [블로그](https://velog.io/@flobeeee/%ED%88%AC%EB%91%90%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%ED%85%8C%EB%A7%88)
-<br >
 - [투두리스트 사용](https://flobeeee.github.io/momentum/)
 
 ---
