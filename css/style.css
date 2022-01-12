@@ -10,10 +10,10 @@
 body {
   height: 100vh;
   /* object-fit:cover; */
-  background-color: darkred;
+  background-color: mediumaquamarine;
 }
 
-#weather-container{
+#weather-container {
   position: absolute;
   text-align: center;
   left: 45%;
@@ -23,7 +23,7 @@ body {
 #contain {
   background-color: white;
   text-align: center;
-  opacity:0.5; 
+  opacity: 0.5;
   padding: 5vh;
   border-radius: 10px;
   position: absolute;
@@ -34,14 +34,14 @@ body {
   transform: translate(-50%, -50%);
 }
 
-li{
-  list-style:none;
-  }
+li {
+  list-style: none;
+}
 
 button {
   outline: 0;
   border: 0;
-  background-color:transparent;
+  background-color: transparent;
 }
 
 button:hover {
@@ -53,8 +53,8 @@ ul {
   overflow: auto;
 }
 
-#tree {
+#movingImpage {
   position: fixed;
-  left: 65%;
-  top: 40%;
+  left: 70%;
+  top: 50%;
 }

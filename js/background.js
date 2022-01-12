@@ -32,7 +32,11 @@ function handleMakeStars(event) {
     span.style.backgroundColor = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
     span.style.display === 'none' ? span.style.display = 'inline-block' : span.style.display = 'none';
   }, Math.floor(Math.random() * 10000) + 1000);
-  document.body.appendChild(span)
+  // 투두리스트는 클릭해도 별 안생기게
+  if ((event.clientX > 580 && event.clientX < 1200) && (event.clientY > 188 && event.clientY < 740)) {
+  } else {
+    document.body.appendChild(span)
+  }
 }
 
 window.addEventListener("click", handleMakeStars)
