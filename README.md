@@ -40,3 +40,10 @@
 - 크리스마스 기간 지나서 새로운 테마 적용 (우주)
 
 ![](https://images.velog.io/images/flobeeee/post/340e3f20-df5f-4b5e-921c-6d4c24a3197d/image.png)
+
+---
+
+- 업데이트 (22.05.16)
+- 여름이니까 (바다)
+
+![](https://velog.velcdn.com/images/flobeeee/post/e153a2c8-f98a-4147-9c61-4418c5db0af9/image.png)
