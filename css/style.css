@@ -10,7 +10,7 @@
 body {
   height: 100vh;
   /* object-fit:cover; */
-  background-color: mediumaquamarine;
+  background-color: rgb(81, 173, 229);
 }
 
 #weather-container {
