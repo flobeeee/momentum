@@ -10,7 +10,7 @@
 body {
   height: 100vh;
   /* object-fit:cover; */
-  background-color: #2C0E52
+  background-color: #A5DCEB
   ;
 }
 
@@ -56,6 +56,6 @@ ul {
 
 #movingImpage {
   position: fixed;
-  left: 70%;
+  left: 100%;
   top: 50%;
 }

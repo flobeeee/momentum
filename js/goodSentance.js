@@ -9,7 +9,11 @@ const goodSentances = [
   "Only I can change my life, No one can do it for me",
   "If you do nothing, nothing happens",
   "Better late than never",
-  "무엇이 선인지 아는 삶은 선을 행할 것이다"
+  "무엇이 선인지 아는 삶은 선을 행할 것이다.",
+  "인생에서 우리가 누릴 수 있는 특권은 ‘진정한 자기 자신’이 되는 것이다.",
+  "만일 오늘이 내 인생의 마지막 날이라면, 내가 오늘 하려는 것을 하게 될까?",
+  "곧 죽을 수도 있다고 생각하는 것은 인생에서 큰 결정들을 내리는 데 가장 큰 도움을 주었다.",
+  "좋아하는 것을 찾아가는 일은 나만의 세계를 만들어가는 행복이자 흔들리는 나를 지탱하는 힘이다."
 ]
 
 const goodSentance = document.querySelector("#goodSentance span:first-child")
